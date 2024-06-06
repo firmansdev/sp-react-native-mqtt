@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/href/syahrul/uruz-pos-new/node_modules/sp-react-native-mqtt/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/href/.gradle/caches/transforms-2/files-2.1/a349d2a1f502e15aea8e8178e36f2677/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/href/syahrul/uruz-pos-new/node_modules/sp-react-native-mqtt/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/href/.gradle/caches/transforms-2/files-2.1/a349d2a1f502e15aea8e8178e36f2677/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/href/syahrul/uruz-pos-new/node_modules/sp-react-native-mqtt/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/href/.gradle/caches/transforms-2/files-2.1/a349d2a1f502e15aea8e8178e36f2677/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/href/syahrul/uruz-pos-new/node_modules/sp-react-native-mqtt/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/href/.gradle/caches/transforms-2/files-2.1/a349d2a1f502e15aea8e8178e36f2677/core-1.1.0/res/layout-v21/notification_action.xml"
+    }
+]
